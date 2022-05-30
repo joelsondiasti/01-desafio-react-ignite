@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre este repositório
 
-Esse repositório contem uma pequena aplicação de lista de tarefas. O código dessa aplicação é baseado em um template que pode ser acessado [aqui](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react).
+Esse repositório contém uma pequena aplicação de lista de tarefas. O código dessa aplicação é baseado em um template que pode ser acessado [aqui](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react).
 
 O projeto é parte dos execícios do curso Ignite da Rocketseat e faz parte da trilha de React. Nesse desafio o objetivo é praticar os fundamentos do React trabalhando com estados e estrutura de dados da aplicação.
 
